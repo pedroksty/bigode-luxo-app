@@ -11,7 +11,7 @@ const AppRoutes: React.FC = () => {
   return (
     <>
 
-      <StatusBar barStyle="light-content" backgroundColor="#28262e" translucent />
+      <StatusBar barStyle="light-content" backgroundColor="#141317" translucent />
 
       <Drawer.Navigator initialRouteName="Dashboard">
         <Drawer.Screen name="Dashboard" component={Dashboard} />
